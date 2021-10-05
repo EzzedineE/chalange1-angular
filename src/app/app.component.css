@@ -1,0 +1,8 @@
+h1{color: blue;
+text-align: center;}
+
+app-footer{
+position: fixed;
+  top: 70%;
+  width: 100%;
+}
